@@ -32,3 +32,9 @@ Run the database migrations by entering php artisan migrate
 
 ## Step 4: Run the project
 Run the project by enter command php artisan serve and test the API
+
+## Live Demo
+The app or the website has been deployed and accessible at the following link: http://taskmanagement.biz.id/
+
+Note: 
+For the credentials login please look at routes/api

@@ -13,6 +13,12 @@ Route::post('/login', 'App\Http\Controllers\AuthController@login')->name('login'
 // route register
 Route::post('/register', 'App\Http\Controllers\AuthController@register');
 
+/*
+    credentials login
+    username : admin
+    password : 123
+*/ 
+
 
 // route tasks
 /*
